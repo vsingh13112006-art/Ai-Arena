@@ -5,7 +5,9 @@
 
 **A controlled, repeatable security-evaluation workbench for AI applications.**
 
-[🚀 Live Dashboard](https://ai-arena-five-pi.vercel.app/) · [🩺 API Health](https://ai-arena-pa82.onrender.com/api/v1/health) · [📘 API Docs](https://ai-arena-pa82.onrender.com/docs)
+[🚀 Live Dashboard](https://ai-arena-five-pi.vercel.app/) 
+[🩺 API Health](https://ai-arena-pa82.onrender.com/api/v1/health)  
+[📘 API Docs](https://ai-arena-pa82.onrender.com/docs)
 
 *LogUnifyers · Hack in Hills '26 — Round 2*
 
